@@ -33,6 +33,7 @@ body {
   font-weight: bold;
   line-height: 20px;
   color: white;
+  text-shadow:2px 2px 4px #ffffff;
 }
 .navbar-brand a:hover,.navbar-brand:focus{
   text-decoration: none;
@@ -55,6 +56,8 @@ h1{
   text-align: center;
   color: black;
   font-weight: bold;
+  text-shadow:2px 2px 4px #484a49;
+
 
 }
 #collapsable-nav{
