@@ -33,7 +33,7 @@ body {
   font-weight: bold;
   line-height: 20px;
   color: white;
-  text-shadow:2px 2px 4px #ffffff;
+  text-shadow:2px 2px 4px #0f0f0f;
 }
 .navbar-brand a:hover,.navbar-brand:focus{
   text-decoration: none;
